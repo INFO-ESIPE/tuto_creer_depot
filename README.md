@@ -27,3 +27,7 @@ Pour faire un commit, il faut utiliser cette commande et ajouter un commentaire 
 Une fois vos commit fait, puis mettre à jour le dépôt sur github, utilisez la commande
 ```git push ```
 
+##### Mettre à jour votre dépôt local
+Pour mettre à jour votre dépôt local avec celui sur GitHub, allez dans le répertoire local et utilisez la commande :
+```git pull```
+Si aucun conflit n'existe entre votre version locale et celle sur le dépôt GIT, votre version du dépôt sera mis à jour sur votre machine.
